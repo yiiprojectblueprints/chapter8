@@ -1,6 +1,6 @@
-## Yii Project Blueprints Chapter 6 Source Code
+## Yii Project Blueprints Chapter 8 Source Code
 
-The following source code is the project for Chapter 6 of Yii Project Blueprints
+The following source code is the project for Chapter 8 of Yii Project Blueprints
 ISBN-CH: 978-1-78328-773-4_04
 
 ### YiiCMS
