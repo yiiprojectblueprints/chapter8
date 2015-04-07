@@ -1,0 +1,36 @@
+{
+    "name": "yii-project-blueprints/chapter6-CMS",
+    "description": "CMS built in Yii Framework Project for the book 'Yii Project Blueprints'",
+    "license": "MIT",
+    "type" : "project",
+    "keywords": [
+        "yii",
+		"project",
+		"blueprints",
+		"packt",
+		"CMS"
+    ],
+	"authors": [
+        {
+            "name": "Charles R. Portwood II",
+            "email": "charlesportwoodii@ethreal.net",
+            "homepage": "https://www.erianna.com",
+            "role": "Lead Developer"
+        }
+    ],
+    "minimum-stability": "dev",
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/ircmaxell/PHP-CryptLib"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.7",
+        "yiisoft/yii": "1.1.14",
+        "ircmaxell/password-compat": "1.0.3",
+        "hybridauth/hybridauth": "2.2.0.*@dev",
+        "sendgrid/sendgrid": "2.0.4",
+        "CryptLib/CryptLib": "dev-master"
+    }
+}

@@ -1,0 +1,5 @@
+/vendor/*
+/assets/*
+/uploads/*
+/protected/runtime/*
+composer.lock
